@@ -1,0 +1,4 @@
+# Ignore target folder
+target/
+# Ignore dependency-reduced-pom.xml
+dependency-reduced-pom.xml
